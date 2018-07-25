@@ -8,7 +8,7 @@ While I realize utilities like ServiceUI.exe ship with Windows, I've found Murra
 ## Usage
 Primarily this is meant to be used via a scheduled task.
 
-*path/to/StartAsCurrentUser.exe <path to .exe to launch)*
+*path/to/StartAsCurrentUser.exe (path to .exe to launch)*
 
 Example: *StartAsCurrentUser.exe c:\windows\system32\calc.exe*
 
